@@ -37,7 +37,16 @@ var mapYear = function(){
 	var jp_sales = this.JP_Sales;
 	var global_sales = this.Global_Sales;
 	var publisher = this.Publisher;
-	emit({year:year},{genre:genre,na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales, global_sales:global_sales, publisher:publisher});
+	emit({
+		year:year
+	},{
+		genre:genre,
+		publisher:publisher,
+		global_sales:global_sales, 
+		na_sales:na_sales,
+		eu_sales:eu_sales,
+		jp_sales:jp_sales, 
+	});
 }
 
 var reduceYear = function(key,values){
@@ -140,8 +149,14 @@ var reduceYearlyGenre = function(key, values){
 		total_eu_sales += values[i].eu_sales;
 		total_na_sales += values[i].na_sales;
 	}
-	return {total_jp_sales:total_jp_sales,total_na_sales:total_na_sales,total_eu_sales:total_eu_sales}
+	return {
+		total_jp_sales:total_jp_sales,
+		total_na_sales:total_na_sales,
+		total_eu_sales:total_eu_sales
+	}
 }
+
+
 
 var mapYearGenre = function(){ //map with year and genre as key
 	var year = this.Year;
@@ -151,7 +166,16 @@ var mapYearGenre = function(){ //map with year and genre as key
 	var jp_sales = this.JP_Sales;
 	var global_sales = this.Global_Sales;
 	var publisher = this.Publisher;
-	emit({year:year,genre:genre},{na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales, global_sales:global_sales, publisher:publisher});
+	emit({
+		year:year,
+		genre:genre
+	},{
+		publisher:publisher,
+		global_sales:global_sales,
+		na_sales:na_sales,
+		eu_sales:eu_sales,
+		jp_sales:jp_sales
+	});
 
 }
 
@@ -168,34 +192,46 @@ var mapYearGenrePublisher = function(){ //map out year genre and publisher
 	// var jp_sales;
 	// var publisher;
 	// var global_sales;
-	if (this.value.games == undefined){
-		emit({
-			year:this._id.year,
-			genre:this._id.genre,
-			publisher:this.value.publisher
-		},{
-			publisher:this.value.publisher,
-			na_sales:this.value.na_sales,
-			eu_sales:this.value.eu_sales,
-			jp_sales:this.value.jp_sales,
-			global_sales:this.value.global_sales
-		})
-	} else {
-		for (var i = 0; i < this.value.games.length; i++){
-			emit({
-				year:this._id.year,
-				genre:this._id.genre,
-				publisher:this.value.games[i].publisher
-			},{
-				publisher:this.value.games[i].publisher,
-				na_sales:this.value.games[i].na_sales,
-				eu_sales:this.value.games[i].eu_sales,
-				jp_sales:this.value.games[i].jp_sales,
-				global_sales:this.value.games[i].global_sales
-			})
-		}
+	// if (this.value.games == undefined){
+	// 	emit({
+	// 		year:this._id.year,
+	// 		genre:this._id.genre,
+	// 		publisher:this.value.publisher
+	// 	},{
+	// 		publisher:this.value.publisher,
+	// 		global_sales:this.value.global_sales,
+	// 		na_sales:this.value.na_sales,
+	// 		eu_sales:this.value.eu_sales,
+	// 		jp_sales:this.value.jp_sales
+	// 	})
+	// } else {
+	// 	for (var i = 0; i < this.value.games.length; i++){
+	// 		emit({
+	// 			year:this._id.year,
+	// 			genre:this._id.genre,
+	// 			publisher:this.value.games[i].publisher
+	// 		},{
+	// 			publisher:this.value.games[i].publisher,
+	// 			global_sales:this.value.games[i].global_sales,
+	// 			na_sales:this.value.games[i].na_sales,
+	// 			eu_sales:this.value.games[i].eu_sales,
+	// 			jp_sales:this.value.games[i].jp_sales
+				
+	// 		})
+	// 	}
 		
-	}
+	// }
+	emit({
+		year:this.Year,
+		genre:this.Genre,
+		publisher:this.Publisher
+	},{
+		publisher:this.Publisher,
+		global_sales:this.Global_Sales,
+		na_sales:this.NA_Sales,
+		eu_sales:this.EU_Sales,
+		jp_sales:this.JP_Sales
+	});
 }
 
 var reduceYearGenrePublisher = function(key, values){ //reduce to their sum of sales for that genre for that year
@@ -211,10 +247,11 @@ var reduceYearGenrePublisher = function(key, values){ //reduce to their sum of s
 	}
 	return {
 		publisher:key.publisher,
+		global_sales:global_sales,
 		na_sales:na_sales,
 		eu_sales:eu_sales,
-		jp_sales:jp_sales,
-		global_sales:global_sales
+		jp_sales:jp_sales
+
 	}
 }
 
@@ -224,10 +261,11 @@ var mapBestPublisherForYearGenre = function(){ //mapping to year and genre
 		genre:this._id.genre
 	},{
 		publisher:this._id.publisher,
+		global_sales:this.value.global_sales,
 		na_sales_share:this.value.na_sales/this.value.global_sales,
 		eu_sales_share:this.value.eu_sales/this.value.global_sales,
-		jp_sales_share:this.value.jp_sales/this.value.global_sales,
-		global_sales:this.value.global_sales
+		jp_sales_share:this.value.jp_sales/this.value.global_sales
+
 	});
 }
 

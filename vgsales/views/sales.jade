@@ -4,6 +4,6 @@ block content
 	h3.
 		Sales
 	ul
-		each game, i in sales
-			li#game_item
-				a(href="#") #{game.Name} is ranked #{game.Rank}.
+		each publisher, i in sales
+			li#publisher_item
+				a(href="#") #{publisher.value.publisher} is ranked #{publisher.value.publisher}.
