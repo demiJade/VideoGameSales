@@ -17,7 +17,7 @@ router.get('/sales', function(req,res){
 			console.log("Unable to connect",err);
 		} else {
 			console.log('Connection established');
-			var collection = db.collection('sales.BestPublisher');
+			var collection = db.collection('sales.BestPublisherForYearGenre');
 
 			collection.find({}).toArray(function(err,results){
 				if (err){

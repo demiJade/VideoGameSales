@@ -4,11 +4,12 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-
+var router = express.Router();
 var mongo = require('mongodb');
-
+var d3 = require("d3");
 var index = require('./routes/index');
 var users = require('./routes/users');
+
 
 var app = express();
 
@@ -46,3 +47,6 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+
+router.get

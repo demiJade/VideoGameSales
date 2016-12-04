@@ -1,7 +1,7 @@
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
-var url = 'mongodb://localhost:27017/mytinydb';
+var url = 'mongodb://localhost:27017/mydb';
 
 var express = require('express');
 var app = express();

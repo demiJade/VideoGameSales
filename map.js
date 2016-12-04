@@ -1,5 +1,3 @@
-
-
 var mapGenre = function(){
 	var genre = this.Genre;
 	var na_sales = this.NA_Sales;
