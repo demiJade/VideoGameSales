@@ -1,0 +1,9 @@
+extends layout
+
+block content
+	h3.
+		Sales
+	ul
+		each game, i in sales
+			li#game_item
+				a(href="#") #{game.Name} is ranked #{game.Rank}.
