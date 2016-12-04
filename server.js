@@ -2,6 +2,10 @@ var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
 var url = 'mongodb://localhost:27017/mydb';
+<<<<<<< HEAD
+=======
+
+>>>>>>> ccbe4703442c617021858936f3014a86422d57eb
 var Chart = require('src/chart.js');
 
 var express = require('express');
