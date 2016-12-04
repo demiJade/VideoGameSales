@@ -92,7 +92,7 @@ var reduceBestForYear = function(key, values){ //reduce the best selling genre f
 }
 
 
-var mapYearlyGenre = function(){
+var mapYearlyGenre = function(){ 
 
 	var genre;
 	var na_sales;
@@ -143,7 +143,7 @@ var reduceYearlyGenre = function(key, values){
 	return {total_jp_sales:total_jp_sales,total_na_sales:total_na_sales,total_eu_sales:total_eu_sales}
 }
 
-var mapYearGenre = function(){
+var mapYearGenre = function(){ //map with year and genre as key
 	var year = this.Year;
 	var genre = this.Genre;
 	var na_sales = this.NA_Sales;
@@ -161,7 +161,7 @@ var reduceYearGenre = function(key, values){
 	}
 }
 
-var mapYearGenrePublisher = function(){
+var mapYearGenrePublisher = function(){ //map out year genre and publisher
 
 	// var na_sales;
 	// var eu_sales;
@@ -198,30 +198,49 @@ var mapYearGenrePublisher = function(){
 	}
 }
 
-var reduceYearGenrePublisher = function(key, values){
-	var total_eu_sales = 0;
-	var total_na_sales = 0;
-	var total_jp_sales = 0;
-	var total_global_sales = 0;
+var reduceYearGenrePublisher = function(key, values){ //reduce to their sum of sales for that genre for that year
+	var eu_sales = 0;
+	var na_sales = 0;
+	var jp_sales = 0;
+	var global_sales = 0;
 	for (var i = 0; i < values.length; i++){
-		total_global_sales += values[i].global_sales;
-		total_jp_sales += values[i].jp_sales;
-		total_eu_sales += values[i].eu_sales;
-		total_na_sales += values[i].na_sales;
+		global_sales += values[i].global_sales;
+		jp_sales += values[i].jp_sales;
+		eu_sales += values[i].eu_sales;
+		na_sales += values[i].na_sales;
 	}
 	return {
 		publisher:key.publisher,
-		total_na_sales:total_na_sales,
-		total_eu_sales:total_eu_sales,
-		total_jp_sales:total_jp_sales,
-		total_global_sales:total_global_sales
+		na_sales:na_sales,
+		eu_sales:eu_sales,
+		jp_sales:jp_sales,
+		global_sales:global_sales
 	}
 }
 
-var mapBestForYearGenre = function(){
-	
+var mapBestPublisherForYearGenre = function(){ //mapping to year and genre
+	emit({
+		year:this._id.year,
+		genre:this._id.genre
+	},{
+		publisher:this._id.publisher,
+		na_sales:this.value.na_sales,
+		eu_sales:this.value.eu_sales,
+		jp_sales:this.value.jp_sales,
+		global_sales:this.value.global_sales
+	});
 }
 
-var reduceBestForYearGenre = function(key, values){
+var reduceBestPublisherForYearGenre = function(key, values){
+	var maxIndex = 0;
+	for (var i = 1; i < values.length; i++){
+		if (values[i].global_sales > values[maxIndex].global_sales){
+			maxIndex = i;
+		}
+	}
 
+	return {
+		best:values[maxIndex].publisher,
+		global_sales:values[maxIndex].global_sales
+	}
 }
