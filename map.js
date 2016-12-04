@@ -6,7 +6,8 @@ var mapGenre = function(){
 	var eu_sales = this.EU_Sales;
 	var jp_sales = this.JP_Sales;
 	var global_sales = this.Global_Sales;
-	emit({genre:genre},{na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales,global_sales:global_sales});
+	var publisher = this.Publisher;
+	emit({genre:genre},{na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales,global_sales:global_sales,publisher:publisher});
 }
 
 var reduceGenre = function(key, values){
@@ -91,7 +92,7 @@ var reduceBestForYear = function(key, values){ //reduce the best selling genre f
 }
 
 
-var mapYearGenre = function(){
+var mapYearlyGenre = function(){
 
 	var genre;
 	var na_sales;
@@ -130,7 +131,7 @@ var mapYearGenre = function(){
 
 }
 
-var reduceYearGenre = function(key, values){
+var reduceYearlyGenre = function(key, values){
 	var total_na_sales = 0;
 	var total_eu_sales = 0;
 	var total_jp_sales = 0;
@@ -140,4 +141,87 @@ var reduceYearGenre = function(key, values){
 		total_na_sales += values[i].na_sales;
 	}
 	return {total_jp_sales:total_jp_sales,total_na_sales:total_na_sales,total_eu_sales:total_eu_sales}
+}
+
+var mapYearGenre = function(){
+	var year = this.Year;
+	var genre = this.Genre;
+	var na_sales = this.NA_Sales;
+	var eu_sales = this.EU_Sales;
+	var jp_sales = this.JP_Sales;
+	var global_sales = this.Global_Sales;
+	var publisher = this.Publisher;
+	emit({year:year,genre:genre},{na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales, global_sales:global_sales, publisher:publisher});
+
+}
+
+var reduceYearGenre = function(key, values){
+	return{
+		games:values
+	}
+}
+
+var mapYearGenrePublisher = function(){
+
+	// var na_sales;
+	// var eu_sales;
+	// var jp_sales;
+	// var publisher;
+	// var global_sales;
+	if (this.value.games == undefined){
+		emit({
+			year:this._id.year,
+			genre:this._id.genre,
+			publisher:this.value.publisher
+		},{
+			publisher:this.value.publisher,
+			na_sales:this.value.na_sales,
+			eu_sales:this.value.eu_sales,
+			jp_sales:this.value.jp_sales,
+			global_sales:this.value.global_sales
+		})
+	} else {
+		for (var i = 0; i < this.value.games.length; i++){
+			emit({
+				year:this._id.year,
+				genre:this._id.genre,
+				publisher:this.value.games[i].publisher
+			},{
+				publisher:this.value.games[i].publisher,
+				na_sales:this.value.games[i].na_sales,
+				eu_sales:this.value.games[i].eu_sales,
+				jp_sales:this.value.games[i].jp_sales,
+				global_sales:this.value.games[i].global_sales
+			})
+		}
+		
+	}
+}
+
+var reduceYearGenrePublisher = function(key, values){
+	var total_eu_sales = 0;
+	var total_na_sales = 0;
+	var total_jp_sales = 0;
+	var total_global_sales = 0;
+	for (var i = 0; i < values.length; i++){
+		total_global_sales += values[i].global_sales;
+		total_jp_sales += values[i].jp_sales;
+		total_eu_sales += values[i].eu_sales;
+		total_na_sales += values[i].na_sales;
+	}
+	return {
+		publisher:key.publisher,
+		total_na_sales:total_na_sales,
+		total_eu_sales:total_eu_sales,
+		total_jp_sales:total_jp_sales,
+		total_global_sales:total_global_sales
+	}
+}
+
+var mapBestForYearGenre = function(){
+	
+}
+
+var reduceBestForYearGenre = function(key, values){
+
 }

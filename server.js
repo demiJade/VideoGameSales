@@ -18,12 +18,19 @@ var yearlySales = [];
 
 var findSalesYearlyReport = function(db, callback){
 	var cursor = db.collection('sales.yearly').find();
+	
 	cursor.each(function(err,doc){
 		assert.equal(err,null);
 		if (doc != null){
-			console.log("Retrieved Yearly Sales Report");
-			console.dir(doc);
-			return doc;
+			var obj = cursor.next();
+			var jsonobj = {};
+			jsonobj['year'] = obj["_id"];
+			
+			// console.log("Retrieved Yearly Sales Report");
+			// var object = doc.;
+			// yearlySales.push(object);
+			// console.log(doc);
+			yearlySales.push(jsonobj);
 		} else {
 			callback();
 		}
@@ -37,4 +44,4 @@ MongoClient.connect(url, function(err, db){
 	});
 });
 
-console.log(yearlySales);
+console.dir(yearlySales);
