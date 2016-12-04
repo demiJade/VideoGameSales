@@ -1,1 +1,58 @@
-hi
+
+<html>
+<head>
+	<title>Index</title>
+</head>
+<body>
+	<canvas id="myChart" width="400" height="400"></canvas>
+
+	<script type="text/javascript" src="node_modules/chart.js/src/chart.js"></script>
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js" charset="utf-8"></script>
+
+	<script type="text/javascript">
+		
+		
+	</script>
+	<script type="text/javascript">
+		var chartData;
+		
+		  $.ajax({
+		    url: 'http://localhost:3000/sales',
+		    type: 'GET',
+		    success : function(data) {
+		      chartData = data;
+		      console.log(data);
+		    }
+		  });
+		 var data = {
+		    datasets: [
+		        {
+		            label: 'First Dataset',
+		            data: [
+		                {
+		                    x: 20,
+		                    y: 30,
+		                    r: 15
+		                },
+		                {
+		                    x: 40,
+		                    y: 10,
+		                    r: 10
+		                }
+		            ],
+		            backgroundColor:"#FF6384",
+		            hoverBackgroundColor: "#FF6384",
+		        }]
+		};
+		var ctx = document.getElementById("myChart");
+		var myBubbleChart = new Chart(ctx,{
+		    type: 'bubble',
+		    data: data,
+		    options: options
+		});
+	</script>
+
+</body>
+</html>
+
+

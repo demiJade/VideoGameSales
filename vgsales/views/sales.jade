@@ -3,7 +3,12 @@ extends layout
 block content
 	h3.
 		Sales
+
+	
 	ul
 		each publisher, i in sales
 			li#publisher_item
 				In the year #{publisher._id.year}, #{publisher.value.publisher} has the best sales in #{publisher._id.genre} games, with global sales of #{publisher.value.global_sales} million.
+
+
+
