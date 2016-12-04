@@ -224,9 +224,9 @@ var mapBestPublisherForYearGenre = function(){ //mapping to year and genre
 		genre:this._id.genre
 	},{
 		publisher:this._id.publisher,
-		na_sales:this.value.na_sales,
-		eu_sales:this.value.eu_sales,
-		jp_sales:this.value.jp_sales,
+		na_sales_share:this.value.na_sales/this.value.global_sales,
+		eu_sales_share:this.value.eu_sales/this.value.global_sales,
+		jp_sales_share:this.value.jp_sales/this.value.global_sales,
 		global_sales:this.value.global_sales
 	});
 }
@@ -238,9 +238,16 @@ var reduceBestPublisherForYearGenre = function(key, values){
 			maxIndex = i;
 		}
 	}
+	// var na_sales_share = values[maxIndex].na_sales/values[maxIndex].global_sales;
+	// var eu_sales_share = values[maxIndex].eu_sales/values[maxIndex].global_sales;
+	// var jp_sales_share = values[maxIndex].jp_sales/values[maxIndex].global_sales;
 
-	return {
-		best:values[maxIndex].publisher,
-		global_sales:values[maxIndex].global_sales
+		return {
+		publisher:values[maxIndex].publisher,
+		global_sales:values[maxIndex].global_sales,
+		na_sales_share:values[maxIndex].na_sales_share,
+		eu_sales_share:values[maxIndex].eu_sales_share,
+		jp_sales_share:values[maxIndex].jp_sales_share
 	}
+	
 }
