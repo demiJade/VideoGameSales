@@ -11,13 +11,13 @@ router.get('/', function(req, res, next) {
 
 router.get('/sales', function(req,res){
 	var MongoClient = mongodb.MongoClient;
-	var url = 'mongodb://localhost:27017/mytinydb';
+	var url = 'mongodb://localhost:27017/mydb';
 	MongoClient.connect(url,function(err,db){
 		if (err){
 			console.log("Unable to connect",err);
 		} else {
 			console.log('Connection established');
-			var collection = db.collection('sales.BestPublisherForYearGenre');
+			var collection = db.collection('sales.BestPublisher');
 
 			collection.find({}).toArray(function(err,results){
 				if (err){

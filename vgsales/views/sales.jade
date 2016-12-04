@@ -6,4 +6,4 @@ block content
 	ul
 		each publisher, i in sales
 			li#publisher_item
-				a(href="#") #{publisher.value.publisher} is ranked #{publisher.value.publisher}.
+				In the year #{publisher._id.year}, #{publisher.value.publisher} has the best sales in #{publisher._id.genre} games, with global sales of #{publisher.value.global_sales} million.
