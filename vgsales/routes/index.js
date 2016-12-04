@@ -23,9 +23,10 @@ router.get('/sales', function(req,res){
 				if (err){
 					res.send(err);
 				} else if (results.length) {
-					res.render('sales',{
-						"sales":results
-					});
+					res.send(results);
+					// res.render('sales',{
+					// 	"sales":results
+					// });
 				} else {
 					res.send('No documents found');
 				}

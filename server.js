@@ -3,6 +3,8 @@ var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
 var url = 'mongodb://localhost:27017/mydb';
 
+var Chart = require('src/chart.js');
+
 var express = require('express');
 var app = express();
 var path = require('path');
