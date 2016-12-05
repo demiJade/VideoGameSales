@@ -1,28 +1,5 @@
 # VideoGameSales
 
-To map out the publisher with the best sales for each genre per year, run the following:
-
-
-db.runCommand({
-	mapReduce:’sales’,
-	map:mapYearGenrePublisher,
-	reduce:reduceYearGenrePublisher,
-	out:’sales.YearGenrePublisher’
-});
-
-
-db.runCommand({
-	mapReduce:’sales.YearGenrePublisher’,
-	map:mapBestPublisherForYearGenre,
-	reduce:reduceBestPublisherForYearGenre,
-	out:’sales.BestPublisher’
-});
-
-
-
-put what our data is, what our app is, how we did our map reduce, and everything
-
-
 The aim of this project is to show how each game publisher fares in the genres they publish games in and in the year these games are released. The visual application will show which game publisher earned the most in the year the game was released based on the genre of the game. The x-axis represents the time, while the y-axis represents the sales. The circles represent the genres, and, when hovered over, they will show the highest-selling publisher of that genre in that year. 
 
 That being said, the data used in this project is about video game sales in one year. The CSV, entitled "vgsalestiny", lists down the name of the game, the platform it should be played on, the year it was released, its genre, and its publisher. In addition to this, it also lists down its sales in North America (NA), Europe (EU), and Japan (JP). The sales coming from the rest of the world is listed under "Other Sales". All of these sales are then added together and listed underneath the header "Global Sales". 
