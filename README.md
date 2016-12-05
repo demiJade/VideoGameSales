@@ -15,7 +15,7 @@ db.runCommand({
 	mapReduce:’sales.YearGenrePublisher’,
 	map:mapBestPublisherForYearGenre,
 	reduce:reduceBestPublisherForYearGenre,
-	out:’sales.BestPublisher’
+	out:’sales.BestPublisherForYearGenre’
 });
 
 

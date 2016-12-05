@@ -185,40 +185,7 @@ var reduceYearGenre = function(key, values){
 
 var mapYearGenrePublisher = function(){ //map out year genre and publisher
 
-	// var na_sales;
-	// var eu_sales;
-	// var jp_sales;
-	// var publisher;
-	// var global_sales;
-	// if (this.value.games == undefined){
-	// 	emit({
-	// 		year:this._id.year,
-	// 		genre:this._id.genre,
-	// 		publisher:this.value.publisher
-	// 	},{
-	// 		publisher:this.value.publisher,
-	// 		global_sales:this.value.global_sales,
-	// 		na_sales:this.value.na_sales,
-	// 		eu_sales:this.value.eu_sales,
-	// 		jp_sales:this.value.jp_sales
-	// 	})
-	// } else {
-	// 	for (var i = 0; i < this.value.games.length; i++){
-	// 		emit({
-	// 			year:this._id.year,
-	// 			genre:this._id.genre,
-	// 			publisher:this.value.games[i].publisher
-	// 		},{
-	// 			publisher:this.value.games[i].publisher,
-	// 			global_sales:this.value.games[i].global_sales,
-	// 			na_sales:this.value.games[i].na_sales,
-	// 			eu_sales:this.value.games[i].eu_sales,
-	// 			jp_sales:this.value.games[i].jp_sales
-				
-	// 		})
-	// 	}
-		
-	// }
+
 	emit({
 		year:this.Year,
 		genre:this.Genre,
@@ -256,7 +223,8 @@ var reduceYearGenrePublisher = function(key, values){ //reduce to their sum of s
 var mapBestPublisherForYearGenre = function(){ //mapping to year and genre
 	emit({
 		year:this._id.year,
-		genre:this._id.genre
+		genre:this._id.genre,
+		publisher:this._id.publisher
 	},{
 		publisher:this._id.publisher,
 		global_sales:this.value.global_sales,

@@ -11,12 +11,13 @@ router.get('/', function(req, res, next) {
 
 router.get('/sales', function(req,res){
 	var MongoClient = mongodb.MongoClient;
-	var url = 'mongodb://localhost:27017/mydb';
+	var url = 'mongodb://TALION:27017/mydb?slaveOk=true';
 	MongoClient.connect(url,function(err,db){
 		if (err){
 			console.log("Unable to connect",err);
 		} else {
 			console.log('Connection established');
+		
 			var collection = db.collection('sales.BestPublisherForYearGenre');
 
 			collection.find({}).toArray(function(err,results){
