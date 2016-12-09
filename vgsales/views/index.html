@@ -4,55 +4,56 @@
 	<title>Index</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawSeriesChart);
-      var googleData;
-      function getData(url) {
-        var chartData = [];
-        $(function(){
-          $.ajax({
-          url: url,
-          type: 'GET',
-          success : function(data) {
-            chartData = data;
-            console.log("Loaded Data");
-            console.log(chartData);
-          }
-          });
-        });
-        return chartData;
-    }
-    function drawSeriesChart() {
+      	google.charts.load('current', {'packages':['corechart']});
+      	google.charts.setOnLoadCallback(drawSeriesChart);
+      	var tempData= [];
+      	function drawSeriesChart() {
+	        var chartData = [];
+	        $(function(){
+	          	$.ajax({
+		          	url: 'http://localhost:3000/sales',
+		          	type: 'GET',
+		          	success : function(data) {
+		            	chartData = data;
+		            	console.log("Loaded Data");
+		            	console.log(chartData);
+						tempData.push(['ID','Genre','Year','Global Sales']);
+				 		for (var i = 0; i < chartData.length; i++){
+				 			var array = [];
 
+				 			array.push(chartData[i].value["global_sales"]);
+				 			array.push(chartData[i]._id["genre"]);
+				 			array.push(chartData[i]._id["year"]);
+				 			array.push(chartData[i].value["publisher"]);
+				 			tempData.push(array);
+
+				 		}
+				 		console.dir(tempData);
+							var data = google.visualization.arrayToDataTable(tempData);
+
+				      		var options = {
+				        		title: 'Correlation between life expectancy, fertility rate ' +
+				               	'and population of some world countries (2010)',
+				        		hAxis: {title: 'Year'},
+				        		vAxis: {title: 'Global Sales'},
+				        		bubble: {textStyle: {fontSize: 11}}
+				      		};
+							var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+				      		chart.draw(data, options);
+				
+					}
+					
+	      		});
+	  		});
+        }
+   
+    	
+    	
       
 
       
       
-      var dataFromReq = getData('http://localhost:3000/sales');		
-        console.log(dataFromReq);
-			googleData.push(['ID','Genre','Year','Global Sales']);
-		 for (var i = 0; i < dataFromReq.length; i++){
-		 	var array = [];
-		 	array.push(dataFromReq[i].value["publisher"]);
-		 	array.push(dataFromReq[i]._id["genre"]);
-		 	array.push(dataFromReq[i]._id["year"]);
-		 	array.push(dataFromReq[i].value["global_sales"]);
-		 	googleData.push(array);
-		 }
-		
-		}
-		console.log(googleData);
-		var data = google.visualization.arrayToDataTable(googleData);
-
-      var options = {
-        title: 'Correlation between life expectancy, fertility rate ' +
-               'and population of some world countries (2010)',
-        hAxis: {title: 'Genre'},
-        vAxis: {title: 'Year'},
-        bubble: {textStyle: {fontSize: 11}}
-      };
-		var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
-      chart.draw(data, options);
+      
     
     </script>
   </head>

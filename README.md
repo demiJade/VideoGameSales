@@ -18,6 +18,22 @@ db.runCommand({
 	out:’sales.BestPublisher’
 });
 
+To map out the genre with the most sales per year, run the following:
+
+db.runCommand({
+	mapReduce:'sales',
+	map:mapYearGenre,
+	reduce:reduceYearGenre,
+	out:'sales.YearGenre'
+});
+
+db.runCommand({
+	mapReduce:'sales.YearGenre',
+	map:mapBestGenre,
+	reduce:reduceBestGenre,
+	out:'sales.BestGenre'
+});
+
 
 
 put what our data is, what our app is, how we did our map reduce, and everything

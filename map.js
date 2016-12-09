@@ -43,7 +43,7 @@ var mapYear = function(){
 		global_sales:global_sales, 
 		na_sales:na_sales,
 		eu_sales:eu_sales,
-		jp_sales:jp_sales, 
+		jp_sales:jp_sales 
 	});
 }
 
@@ -106,14 +106,28 @@ var mapYearlyGenre = function(){
 	var eu_sales;
 	var jp_sales;
 	if (this.value.genres == undefined){
-		emit({year:this._id,genre:this.value.genre},{na_sales:this.value.na_sales,eu_sales:this.value.eu_sales,jp_sales:this.value.jp_sales});
+		emit({
+			year:this._id,
+			genre:this.value.genre
+		},{
+			na_sales:this.value.na_sales,
+			eu_sales:this.value.eu_sales,
+			jp_sales:this.value.jp_sales
+		});
 	} else {
 		for (var i = 0; i < this.value.genres.length;i++){
 			genre = this.value.genres[i].genre;
 			na_sales = this.value.genres[i].na_sales;
 			eu_sales = this.value.genres[i].eu_sales;
 			jp_sales = this.value.genres[i].jp_sales;
-			emit({year:this._id,genre:genre},{na_sales:na_sales,eu_sales:eu_sales,jp_sales:jp_sales});
+			emit({
+				year:this._id,
+				genre:genre
+			},{
+				na_sales:na_sales,
+				eu_sales:eu_sales,
+				jp_sales:jp_sales
+			});
 		}
 	}
 	// for (var i = 0; i < this.value.genres.length;i++){
@@ -177,9 +191,40 @@ var mapYearGenre = function(){ //map with year and genre as key
 
 }
 
-var reduceYearGenre = function(key, values){
-	return{
-		games:values
+var reduceYearGenre = function(key, values){ //reduces to global sales per genre per year
+	var total_global_sales = 0;
+	for (var i = 0; i < values.length; i++){
+		total_global_sales += values[i].global_sales;
+	}
+	return {
+		global_sales:total_global_sales
+	}
+}
+
+var mapBestGenre = function(){
+	var year = this._id.year;
+	var genre = this._id.genre;
+	var global_sales = this.value.global_sales;
+	emit({
+		year:year,
+	},{
+		genre:genre,
+		global_sales:global_sales
+	});
+}
+
+var reduceBestGenre = function(key, values){
+	var maxIndex = 0;
+	for (var i = 1; i < values.length; i++){
+		if (values[i].global_sales > values[maxIndex].global_sales){
+			maxIndex = i;
+		}
+	}
+	var genre = values[maxIndex].genre;
+	var global_sales = values[maxIndex].global_sales;
+	return {
+		genre:genre,
+		global_sales:global_sales
 	}
 }
 
@@ -287,3 +332,4 @@ var reduceBestPublisherForYearGenre = function(key, values){
 	}
 	
 }
+
