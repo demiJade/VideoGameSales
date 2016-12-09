@@ -13,10 +13,10 @@ router.get('/sales', function(req,res){
 
 	var fs = require('fs');
 	var obj;
-	fs.readFile('../data.json', 'utf8', function (err, data) {
+	fs.readFile('data.json',function (err, data) {
   	if (err) throw err;
   	obj = JSON.parse(data);
-  	res.send(obj);
+  	res.send(JSON.stringify(obj));
 	console.log(obj);
 
 	// var MongoClient = mongodb.MongoClient;

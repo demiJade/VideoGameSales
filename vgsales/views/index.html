@@ -15,7 +15,7 @@
           url: 'http://localhost:3000/sales',
           type: 'GET',
           success : function(data) {
-            chartData = data;
+            chartData = JSON.parse(data);
             console.log("Loaded Data");
             console.log(chartData);
             googleData.push([]);
