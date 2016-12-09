@@ -4,62 +4,60 @@
 	<title>Index</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-      	google.charts.load('current', {'packages':['corechart']});
-      	google.charts.setOnLoadCallback(drawSeriesChart);
-      	var tempData= [];
-      	function drawSeriesChart() {
-	        var chartData = [];
-	        $(function(){
-	          	$.ajax({
-		          	url: 'http://localhost:3000/sales',
-		          	type: 'GET',
-		          	success : function(data) {
-		            	chartData = data;
-		            	console.log("Loaded Data");
-		            	console.log(chartData);
-						tempData.push(['ID','Genre','Year','Global Sales']);
-				 		for (var i = 0; i < chartData.length; i++){
-				 			var array = [];
 
-				 			array.push(chartData[i].value["global_sales"]);
-				 			array.push(chartData[i]._id["genre"]);
-				 			array.push(chartData[i]._id["year"]);
-				 			array.push(chartData[i].value["publisher"]);
-				 			tempData.push(array);
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawSeriesChart);
+      var googleData = [];
+      function drawSeriesChart() {
+        var chartData = [];
+        $(function(){
+          $.ajax({
+          url: 'http://localhost:3000/sales',
+          type: 'GET',
+          success : function(data) {
+            chartData = data;
+            console.log("Loaded Data");
+            console.log(chartData);
+            googleData.push([]);
+            googleData[0] =['Publisher','Year','Global Sales', 'Genre','Share in NA Sales', 'Share in EU Sales', 'Share in JP Sales'];
+           for (var i = 0; i < chartData.length; i++){
+            var array = [];
+           array.push(chartData[i].value["publisher"]);
+            array.push(chartData[i]._id["year"]);
+            array.push(chartData[i].value["global_sales"]);
+             
+            array.push(chartData[i]._id["genre"]);
+            array.push(chartData[i].value["na_sales_share"]);
+            array.push(chartData[i].value["eu_sales_share"]);
+            array.push(chartData[i].value["jp_sales_share"]);
+           
+            
+            googleData.push(array);
+          }
+          var data = google.visualization.arrayToDataTable(googleData);
+          var options = {
+            title: 'Games by Genre by Sales and by Publisher',
+            hAxis: {title: 'Year'},
+            vAxis: {title: 'Global Sales'},
+            sizeAxis:1,
+            bubble: {textStyle: {color:'none'}}
+              }
+          var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+                chart.draw(data, options);
+              }
 
-				 		}
-				 		console.dir(tempData);
-							var data = google.visualization.arrayToDataTable(tempData);
+    
+        
+    });
+    });
+}
 
-				      		var options = {
-				        		title: 'Correlation between life expectancy, fertility rate ' +
-				               	'and population of some world countries (2010)',
-				        		hAxis: {title: 'Year'},
-				        		vAxis: {title: 'Global Sales'},
-				        		bubble: {textStyle: {fontSize: 11}}
-				      		};
-							var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
-				      		chart.draw(data, options);
-				
-					}
-					
-	      		});
-	  		});
-        }
-   
-    	
-    	
-      
-
-      
-      
-      
     
     </script>
   </head>
 <body>
 	
-	<div id="series_chart_div" style="width: 900px; height: 500px;"></div>
+	<div id="series_chart_div" style="width: 100%; height: 100%;"></div>
 	<script src="http://code.jquery.com/jquery-2.1.4.min.js" charset="utf-8"></script>
 
 
