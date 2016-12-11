@@ -1,0 +1,5239 @@
+[{
+	"_id": {
+		"year": 1980.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.34,
+		"na_sales_share": 0.9411764705882353,
+		"eu_sales_share": 0.058823529411764705,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1980.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.77,
+		"na_sales_share": 0.935064935064935,
+		"eu_sales_share": 0.051948051948051945,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1980.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 1.42,
+		"na_sales_share": 0.9295774647887325,
+		"eu_sales_share": 0.06338028169014086,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1980.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 7.069999999999999,
+		"na_sales_share": 0.927864214992928,
+		"eu_sales_share": 0.06082036775106083,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1980.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.5,
+		"na_sales_share": 0.92,
+		"eu_sales_share": 0.06,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Parker Bros.",
+		"global_sales": 3.3500000000000005,
+		"na_sales_share": 0.9373134328358208,
+		"eu_sales_share": 0.05373134328358208,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 4.5,
+		"na_sales_share": 0.9355555555555556,
+		"eu_sales_share": 0.05333333333333333,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 1.66,
+		"na_sales_share": 0.9277108433734941,
+		"eu_sales_share": 0.06024096385542169,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.48,
+		"na_sales_share": 0.9375000000000001,
+		"eu_sales_share": 0.0625,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Imagic",
+		"global_sales": 4.45,
+		"na_sales_share": 0.9348314606741573,
+		"eu_sales_share": 0.056179775280898875,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.44,
+		"na_sales_share": 0.9545454545454545,
+		"eu_sales_share": 0.045454545454545456,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1981.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.59,
+		"na_sales_share": 0.9491525423728815,
+		"eu_sales_share": 0.05084745762711865,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.8200000000000001,
+		"na_sales_share": 0.9268292682926829,
+		"eu_sales_share": 0.06097560975609756,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Quelle",
+		"global_sales": 0.87,
+		"na_sales_share": 0.9310344827586208,
+		"eu_sales_share": 0.0574712643678161,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 4.49,
+		"na_sales_share": 0.9331848552338529,
+		"eu_sales_share": 0.05567928730512249,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 9.45,
+		"na_sales_share": 0.9312169312169314,
+		"eu_sales_share": 0.05820105820105821,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 1.18,
+		"na_sales_share": 0.9322033898305085,
+		"eu_sales_share": 0.05932203389830509,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 3.3000000000000003,
+		"na_sales_share": 0.9333333333333332,
+		"eu_sales_share": 0.054545454545454536,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1982.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.56,
+		"na_sales_share": 0.9285714285714285,
+		"eu_sales_share": 0.05357142857142856,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 1.74,
+		"na_sales_share": 0.9310344827586207,
+		"eu_sales_share": 0.0574712643678161,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.4,
+		"na_sales_share": 0.95,
+		"eu_sales_share": 0.049999999999999996,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.14,
+		"na_sales_share": 0.004672897196261682,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9953271028037383
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.619999999999999,
+		"na_sales_share": 0.2811387900355872,
+		"eu_sales_share": 0.06405693950177936,
+		"jp_sales_share": 0.6441281138790037
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.78,
+		"na_sales_share": 0.923076923076923,
+		"eu_sales_share": 0.06410256410256411,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.49,
+		"na_sales_share": 0.9183673469387755,
+		"eu_sales_share": 0.061224489795918366,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1983.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.2,
+		"na_sales_share": 0.228125,
+		"eu_sales_share": 0.03125,
+		"jp_sales_share": 0.734375
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.85,
+		"na_sales_share": 0.43243243243243246,
+		"eu_sales_share": 0.1027027027027027,
+		"jp_sales_share": 0.4486486486486486
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.45,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 0.69,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 1.22,
+		"na_sales_share": 0.2213114754098361,
+		"eu_sales_share": 0.06557377049180328,
+		"jp_sales_share": 0.6967213114754098
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.68,
+		"na_sales_share": 0.3591549295774648,
+		"eu_sales_share": 0.08450704225352113,
+		"jp_sales_share": 0.5440140845070423
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 29.58,
+		"na_sales_share": 0.9334009465855307,
+		"eu_sales_share": 0.026707234617985128,
+		"jp_sales_share": 0.02332657200811359
+	}
+},
+{
+	"_id": {
+		"year": 1984.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 6.17,
+		"na_sales_share": 0.2755267423014587,
+		"eu_sales_share": 0.06320907617504053,
+		"jp_sales_share": 0.6515397082658022
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.5,
+		"na_sales_share": 0.4685714285714285,
+		"eu_sales_share": 0.10857142857142857,
+		"jp_sales_share": 0.4057142857142857
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 1.05,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 43.17,
+		"na_sales_share": 0.6933055362520268,
+		"eu_sales_share": 0.08732916377113736,
+		"jp_sales_share": 0.20083391243919388
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.32,
+		"na_sales_share": 0.553030303030303,
+		"eu_sales_share": 0.12121212121212122,
+		"jp_sales_share": 0.30303030303030304
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Capcom",
+		"global_sales": 1.0,
+		"na_sales_share": 0.65,
+		"eu_sales_share": 0.14,
+		"jp_sales_share": 0.21
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.04,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.75,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1985.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.96,
+		"na_sales_share": 0.09183673469387756,
+		"eu_sales_share": 0.11734693877551021,
+		"jp_sales_share": 0.7806122448979592
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 9.8,
+		"na_sales_share": 0.5173469387755102,
+		"eu_sales_share": 0.12653061224489795,
+		"jp_sales_share": 0.33673469387755095
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.41,
+		"na_sales_share": 0.12018140589569161,
+		"eu_sales_share": 0.027210884353741496,
+		"jp_sales_share": 0.8480725623582767
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.96,
+		"na_sales_share": 0.5765306122448979,
+		"eu_sales_share": 0.18877551020408162,
+		"jp_sales_share": 0.20918367346938774
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Capcom",
+		"global_sales": 2.52,
+		"na_sales_share": 0.19444444444444445,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.20634920634920637
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Konami Digital Entertainment",
+		"global_sales": 2.56,
+		"na_sales_share": 0.10546875,
+		"eu_sales_share": 0.03125,
+		"jp_sales_share": 0.859375
+	}
+},
+{
+	"_id": {
+		"year": 1986.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 5.28,
+		"na_sales_share": 0.3920454545454545,
+		"eu_sales_share": 0.08522727272727272,
+		"jp_sales_share": 0.5094696969696969
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 1.11,
+		"na_sales_share": 0.9369369369369369,
+		"eu_sales_share": 0.05405405405405405,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.38,
+		"na_sales_share": 0.5,
+		"eu_sales_share": 0.11415525114155252,
+		"jp_sales_share": 0.3675799086757991
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.42,
+		"na_sales_share": 0.5166051660516605,
+		"eu_sales_share": 0.1199261992619926,
+		"jp_sales_share": 0.34501845018450183
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Konami Digital Entertainment",
+		"global_sales": 0.93,
+		"na_sales_share": 0.48387096774193544,
+		"eu_sales_share": 0.06451612903225806,
+		"jp_sales_share": 0.4516129032258064
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Enix Corporation",
+		"global_sales": 2.56,
+		"na_sales_share": 0.05859375,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.94140625
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.69,
+		"na_sales_share": 0.9565217391304347,
+		"eu_sales_share": 0.043478260869565216,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1987.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.15,
+		"na_sales_share": 0.06511627906976745,
+		"eu_sales_share": 0.013953488372093023,
+		"jp_sales_share": 0.9209302325581395
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Capcom",
+		"global_sales": 1.51,
+		"na_sales_share": 0.6158940397350994,
+		"eu_sales_share": 0.09933774834437085,
+		"jp_sales_share": 0.2781456953642384
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 26.3,
+		"na_sales_share": 0.5901140684410646,
+		"eu_sales_share": 0.18098859315589352,
+		"jp_sales_share": 0.20342205323193915
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.58,
+		"na_sales_share": 0.5322580645161291,
+		"eu_sales_share": 0.12365591397849461,
+		"jp_sales_share": 0.32437275985663083
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.14,
+		"na_sales_share": 0.6869158878504672,
+		"eu_sales_share": 0.17757009345794392,
+		"jp_sales_share": 0.08878504672897196
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Enix Corporation",
+		"global_sales": 3.87,
+		"na_sales_share": 0.02583979328165375,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9741602067183462
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.51,
+		"na_sales_share": 0.9215686274509803,
+		"eu_sales_share": 0.058823529411764705,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Maxis",
+		"global_sales": 0.03,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.6666666666666667,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1988.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.42,
+		"na_sales_share": 0.5247933884297521,
+		"eu_sales_share": 0.1322314049586777,
+		"jp_sales_share": 0.3223140495867769
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Palcom",
+		"global_sales": 4.17,
+		"na_sales_share": 0.8105515587529976,
+		"eu_sales_share": 0.10551558752997602,
+		"jp_sales_share": 0.07434052757793765
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.28,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 18.14,
+		"na_sales_share": 0.5970231532524807,
+		"eu_sales_share": 0.149393605292172,
+		"jp_sales_share": 0.23042998897464165
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 37.54,
+		"na_sales_share": 0.7016515716568993,
+		"eu_sales_share": 0.09589770911028236,
+		"jp_sales_share": 0.1803409696323921
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 1.1,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.19,
+		"na_sales_share": 0.33613445378151263,
+		"eu_sales_share": 0.3277310924369748,
+		"jp_sales_share": 0.3025210084033613
+	}
+},
+{
+	"_id": {
+		"year": 1989.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.720000000000001,
+		"na_sales_share": 0.3916083916083916,
+		"eu_sales_share": 0.15734265734265732,
+		"jp_sales_share": 0.4318181818181818
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 2.6,
+		"na_sales_share": 0.7153846153846154,
+		"eu_sales_share": 0.21153846153846154,
+		"jp_sales_share": 0.0423076923076923
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 20.62,
+		"na_sales_share": 0.6197866149369543,
+		"eu_sales_share": 0.18186226964112512,
+		"jp_sales_share": 0.1716779825412221
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.99,
+		"na_sales_share": 0.5225375626043405,
+		"eu_sales_share": 0.1335559265442404,
+		"jp_sales_share": 0.32220367278797996
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 6.25,
+		"na_sales_share": 0.496,
+		"eu_sales_share": 0.192,
+		"jp_sales_share": 0.2368
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Enix Corporation",
+		"global_sales": 3.12,
+		"na_sales_share": 0.02564102564102564,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.971153846153846
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.13,
+		"na_sales_share": 0.4070796460176992,
+		"eu_sales_share": 0.1504424778761062,
+		"jp_sales_share": 0.42477876106194695
+	}
+},
+{
+	"_id": {
+		"year": 1990.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.48,
+		"na_sales_share": 0.1891891891891892,
+		"eu_sales_share": 0.33783783783783783,
+		"jp_sales_share": 0.4391891891891892
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.61,
+		"na_sales_share": 0.5249457700650759,
+		"eu_sales_share": 0.19739696312364424,
+		"jp_sales_share": 0.24945770065075917
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.76,
+		"na_sales_share": 0.4829545454545454,
+		"eu_sales_share": 0.17613636363636365,
+		"jp_sales_share": 0.31818181818181823
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Human Entertainment",
+		"global_sales": 0.39,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Epoch",
+		"global_sales": 0.08,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 4.33,
+		"na_sales_share": 0.6997690531177828,
+		"eu_sales_share": 0.21016166281755197,
+		"jp_sales_share": 0.06004618937644342
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.48,
+		"na_sales_share": 0.282258064516129,
+		"eu_sales_share": 0.05241935483870968,
+		"jp_sales_share": 0.6612903225806452
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.14,
+		"na_sales_share": 0.5087719298245614,
+		"eu_sales_share": 0.32456140350877194,
+		"jp_sales_share": 0.13157894736842105
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Square",
+		"global_sales": 1.78,
+		"na_sales_share": 0.1348314606741573,
+		"eu_sales_share": 0.05056179775280899,
+		"jp_sales_share": 0.7471910112359551
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.8699999999999999,
+		"na_sales_share": 0.5668449197860963,
+		"eu_sales_share": 0.20320855614973263,
+		"jp_sales_share": 0.20320855614973263
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.99,
+		"na_sales_share": 0.46733668341708545,
+		"eu_sales_share": 0.135678391959799,
+		"jp_sales_share": 0.3768844221105528
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.38,
+		"na_sales_share": 0.2971014492753623,
+		"eu_sales_share": 0.07246376811594205,
+		"jp_sales_share": 0.6159420289855073
+	}
+},
+{
+	"_id": {
+		"year": 1991.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 0.33,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.84,
+		"na_sales_share": 0.5755208333333334,
+		"eu_sales_share": 0.25,
+		"jp_sales_share": 0.14062500000000003
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 11.18,
+		"na_sales_share": 0.5509838998211092,
+		"eu_sales_share": 0.18246869409660108,
+		"jp_sales_share": 0.240608228980322
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Capcom",
+		"global_sales": 10.39,
+		"na_sales_share": 0.37439846005774785,
+		"eu_sales_share": 0.12897016361886426,
+		"jp_sales_share": 0.47834456207892206
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.9399999999999995,
+		"na_sales_share": 0.46558704453441296,
+		"eu_sales_share": 0.14372469635627533,
+		"jp_sales_share": 0.3663967611336033
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 6.06,
+		"na_sales_share": 0.7376237623762376,
+		"eu_sales_share": 0.19801980198019803,
+		"jp_sales_share": 0.03300330033003301
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.2700000000000005,
+		"na_sales_share": 0.36533957845433246,
+		"eu_sales_share": 0.12177985948477751,
+		"jp_sales_share": 0.4941451990632318
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 8.77,
+		"na_sales_share": 0.4036488027366021,
+		"eu_sales_share": 0.14139110604332955,
+		"jp_sales_share": 0.4344355758266819
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "SquareSoft",
+		"global_sales": 3.42,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9941520467836259
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Konami Digital Entertainment",
+		"global_sales": 0.13,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Maxis",
+		"global_sales": 2.14,
+		"na_sales_share": 0.5607476635514018,
+		"eu_sales_share": 0.3925233644859813,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Arena Entertainment",
+		"global_sales": 2.05,
+		"na_sales_share": 0.853658536585366,
+		"eu_sales_share": 0.12195121951219513,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1992.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Tecmo Koei",
+		"global_sales": 0.29,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Capcom",
+		"global_sales": 1.09,
+		"na_sales_share": 0.35779816513761464,
+		"eu_sales_share": 0.11009174311926605,
+		"jp_sales_share": 0.5137614678899083
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 0.07,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 4.01,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sammy Corporation",
+		"global_sales": 0.19,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 12.3,
+		"na_sales_share": 0.5512195121951219,
+		"eu_sales_share": 0.18617886178861787,
+		"jp_sales_share": 0.2373983739837398
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Banpresto",
+		"global_sales": 1.7,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9941176470588236
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 0.35,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "SquareSoft",
+		"global_sales": 3.0,
+		"na_sales_share": 0.08333333333333333,
+		"eu_sales_share": 0.023333333333333334,
+		"jp_sales_share": 0.8866666666666667
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.99,
+		"na_sales_share": 0.5384615384615384,
+		"eu_sales_share": 0.1705685618729097,
+		"jp_sales_share": 0.26755852842809363
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Hect",
+		"global_sales": 0.19,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 0.8,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1993.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Tecmo Koei",
+		"global_sales": 0.62,
+		"na_sales_share": 0.48387096774193544,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.5161290322580645
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.42,
+		"na_sales_share": 0.4014084507042253,
+		"eu_sales_share": 0.08450704225352113,
+		"jp_sales_share": 0.5
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Red Orb",
+		"global_sales": 2.81,
+		"na_sales_share": 0.0071174377224199285,
+		"eu_sales_share": 0.9928825622775801,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Acclaim Entertainment",
+		"global_sales": 2.88,
+		"na_sales_share": 0.7743055555555555,
+		"eu_sales_share": 0.19444444444444448,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Hasbro Interactive",
+		"global_sales": 2.4,
+		"na_sales_share": 0.6208333333333333,
+		"eu_sales_share": 0.3375,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 21.480000000000004,
+		"na_sales_share": 0.483705772811918,
+		"eu_sales_share": 0.18947858472998136,
+		"jp_sales_share": 0.2881750465549348
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Hudson Soft",
+		"global_sales": 1.51,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 1.13,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "SquareSoft",
+		"global_sales": 3.75,
+		"na_sales_share": 0.22933333333333333,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.7653333333333332
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Virgin Interactive",
+		"global_sales": 3.61,
+		"na_sales_share": 0.5678670360110804,
+		"eu_sales_share": 0.3878116343490305,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Hudson Soft",
+		"global_sales": 0.91,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Acclaim Entertainment",
+		"global_sales": 2.5,
+		"na_sales_share": 0.8559999999999999,
+		"eu_sales_share": 0.12000000000000002,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1994.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 2.08,
+		"na_sales_share": 0.42788461538461536,
+		"eu_sales_share": 0.5192307692307693,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 1.7000000000000002,
+		"na_sales_share": 0.776470588235294,
+		"eu_sales_share": 0.11176470588235293,
+		"jp_sales_share": 0.07647058823529411
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "NEC",
+		"global_sales": 0.14,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 4.59,
+		"na_sales_share": 0.3137254901960784,
+		"eu_sales_share": 0.35511982570806105,
+		"jp_sales_share": 0.26143790849673204
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 3.9499999999999997,
+		"na_sales_share": 0.5367088607594938,
+		"eu_sales_share": 0.36455696202531646,
+		"jp_sales_share": 0.0810126582278481
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 11.620000000000001,
+		"na_sales_share": 0.3820998278829603,
+		"eu_sales_share": 0.12822719449225475,
+		"jp_sales_share": 0.4681583476764199
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.5,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 2.33,
+		"na_sales_share": 0.5579399141630901,
+		"eu_sales_share": 0.37768240343347637,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "SquareSoft",
+		"global_sales": 4.5,
+		"na_sales_share": 0.06222222222222223,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9333333333333333
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 1.6400000000000001,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 2.35,
+		"na_sales_share": 0.5063829787234042,
+		"eu_sales_share": 0.2170212765957447,
+		"jp_sales_share": 0.23829787234042554
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 1.54,
+		"na_sales_share": 0.41558441558441556,
+		"eu_sales_share": 0.2857142857142857,
+		"jp_sales_share": 0.22727272727272727
+	}
+},
+{
+	"_id": {
+		"year": 1995.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 4.2,
+		"na_sales_share": 0.4047619047619047,
+		"eu_sales_share": 0.5404761904761904,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Virgin Interactive",
+		"global_sales": 9.9,
+		"na_sales_share": 0.4383838383838384,
+		"eu_sales_share": 0.27373737373737367,
+		"jp_sales_share": 0.18181818181818182
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 1.59,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 8.67,
+		"na_sales_share": 0.3517877739331026,
+		"eu_sales_share": 0.279123414071511,
+		"jp_sales_share": 0.320645905420992
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 7.3100000000000005,
+		"na_sales_share": 0.41176470588235287,
+		"eu_sales_share": 0.2763337893296853,
+		"jp_sales_share": 0.2886456908344733
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 19.19,
+		"na_sales_share": 0.5070349140177175,
+		"eu_sales_share": 0.20323084940072952,
+		"jp_sales_share": 0.2683689421573736
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "JVC",
+		"global_sales": 2.41,
+		"na_sales_share": 0.8713692946058091,
+		"eu_sales_share": 0.0995850622406639,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 14.549999999999999,
+		"na_sales_share": 0.6336769759450172,
+		"eu_sales_share": 0.1759450171821306,
+		"jp_sales_share": 0.1766323024054983
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 33.519999999999996,
+		"na_sales_share": 0.35590692124105017,
+		"eu_sales_share": 0.26521479713603824,
+		"jp_sales_share": 0.34815035799522676
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Fox Interactive",
+		"global_sales": 1.53,
+		"na_sales_share": 0.5555555555555556,
+		"eu_sales_share": 0.3790849673202614,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 5.11,
+		"na_sales_share": 0.6301369863013698,
+		"eu_sales_share": 0.33072407045009783,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 3.73,
+		"na_sales_share": 0.6166219839142091,
+		"eu_sales_share": 0.26273458445040215,
+		"jp_sales_share": 0.064343163538874
+	}
+},
+{
+	"_id": {
+		"year": 1996.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Virgin Interactive",
+		"global_sales": 3.25,
+		"na_sales_share": 0.48923076923076925,
+		"eu_sales_share": 0.4584615384615385,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Eidos Interactive",
+		"global_sales": 11.07,
+		"na_sales_share": 0.4399277326106594,
+		"eu_sales_share": 0.47786811201445345,
+		"jp_sales_share": 0.028906955736224028
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Red Orb",
+		"global_sales": 2.44,
+		"na_sales_share": 0.6229508196721312,
+		"eu_sales_share": 0.3360655737704918,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Virgin Interactive",
+		"global_sales": 1.72,
+		"na_sales_share": 0.436046511627907,
+		"eu_sales_share": 0.29651162790697677,
+		"jp_sales_share": 0.20348837209302326
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.2199999999999998,
+		"na_sales_share": 0.6261261261261263,
+		"eu_sales_share": 0.2477477477477478,
+		"jp_sales_share": 0.0945945945945946
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 8.02,
+		"na_sales_share": 0.49002493765586036,
+		"eu_sales_share": 0.2830423940149626,
+		"jp_sales_share": 0.18453865336658354
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Compile",
+		"global_sales": 1.9299999999999997,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9481865284974094
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 13.799999999999999,
+		"na_sales_share": 0.43115942028985504,
+		"eu_sales_share": 0.33550724637681156,
+		"jp_sales_share": 0.18623188405797103
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 9.860000000000001,
+		"na_sales_share": 0.3133874239350912,
+		"eu_sales_share": 0.255578093306288,
+		"jp_sales_share": 0.33265720081135897
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 12.129999999999999,
+		"na_sales_share": 0.7073371805441055,
+		"eu_sales_share": 0.21352019785655402,
+		"jp_sales_share": 0.06347897774113768
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 1.75,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.9828571428571429
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 12.050000000000002,
+		"na_sales_share": 0.6672199170124479,
+		"eu_sales_share": 0.2473029045643153,
+		"jp_sales_share": 0.03817427385892116
+	}
+},
+{
+	"_id": {
+		"year": 1997.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 3.5199999999999996,
+		"na_sales_share": 0.8323863636363638,
+		"eu_sales_share": 0.14772727272727276,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 7.6,
+		"na_sales_share": 0.5394736842105263,
+		"eu_sales_share": 0.24868421052631579,
+		"jp_sales_share": 0.19078947368421054
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 3.34,
+		"na_sales_share": 0.48802395209580834,
+		"eu_sales_share": 0.45808383233532934,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 7.67,
+		"na_sales_share": 0.45371577574967403,
+		"eu_sales_share": 0.30899608865710565,
+		"jp_sales_share": 0.19556714471968709
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.7,
+		"na_sales_share": 0.4629629629629629,
+		"eu_sales_share": 0.1962962962962963,
+		"jp_sales_share": 0.3222222222222222
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 15.739999999999998,
+		"na_sales_share": 0.6010165184243965,
+		"eu_sales_share": 0.2630241423125794,
+		"jp_sales_share": 0.09466327827191869
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.93,
+		"na_sales_share": 0.5492227979274612,
+		"eu_sales_share": 0.31088082901554404,
+		"jp_sales_share": 0.10362694300518135
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 8.52,
+		"na_sales_share": 0.7605633802816902,
+		"eu_sales_share": 0.2007042253521127,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 14.64,
+		"na_sales_share": 0.4023224043715847,
+		"eu_sales_share": 0.3442622950819672,
+		"jp_sales_share": 0.21311475409836064
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 2.67,
+		"na_sales_share": 0.5393258426966292,
+		"eu_sales_share": 0.4082397003745319,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.99,
+		"na_sales_share": 0.6090225563909775,
+		"eu_sales_share": 0.13032581453634084,
+		"jp_sales_share": 0.2531328320802005
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 13.59,
+		"na_sales_share": 0.6659308314937453,
+		"eu_sales_share": 0.2884473877851361,
+		"jp_sales_share": 0.0029433406916850625
+	}
+},
+{
+	"_id": {
+		"year": 1998.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.07,
+		"na_sales_share": 0.2938856015779093,
+		"eu_sales_share": 0.14398422090729782,
+		"jp_sales_share": 0.5424063116370809
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "GT Interactive",
+		"global_sales": 6.4799999999999995,
+		"na_sales_share": 0.5077160493827161,
+		"eu_sales_share": 0.4382716049382716,
+		"jp_sales_share": 0.00308641975308642
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Konami Digital Entertainment",
+		"global_sales": 1.85,
+		"na_sales_share": 0.5135135135135135,
+		"eu_sales_share": 0.35135135135135137,
+		"jp_sales_share": 0.07027027027027027
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.56,
+		"na_sales_share": 0.5305755395683454,
+		"eu_sales_share": 0.10791366906474821,
+		"jp_sales_share": 0.35431654676258995
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 9.04,
+		"na_sales_share": 0.5630530973451328,
+		"eu_sales_share": 0.17367256637168146,
+		"jp_sales_share": 0.24004424778761063
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 10.34,
+		"na_sales_share": 0.6508704061895552,
+		"eu_sales_share": 0.20212765957446807,
+		"jp_sales_share": 0.11992263056092843
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 0.86,
+		"na_sales_share": 0.558139534883721,
+		"eu_sales_share": 0.38372093023255816,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 15.180000000000001,
+		"na_sales_share": 0.4578392621870882,
+		"eu_sales_share": 0.35111989459815546,
+		"jp_sales_share": 0.1403162055335968
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 23.5,
+		"na_sales_share": 0.3872340425531915,
+		"eu_sales_share": 0.26382978723404255,
+		"jp_sales_share": 0.3170212765957447
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 3.3899999999999997,
+		"na_sales_share": 0.6489675516224188,
+		"eu_sales_share": 0.2448377581120944,
+		"jp_sales_share": 0.0648967551622419
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.63,
+		"na_sales_share": 0.6143250688705234,
+		"eu_sales_share": 0.18732782369146006,
+		"jp_sales_share": 0.18181818181818182
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 5.02,
+		"na_sales_share": 0.6812749003984064,
+		"eu_sales_share": 0.2749003984063745,
+		"jp_sales_share": 0.003984063745019921
+	}
+},
+{
+	"_id": {
+		"year": 1999.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.98,
+		"na_sales_share": 0.5685618729096991,
+		"eu_sales_share": 0.2157190635451505,
+		"jp_sales_share": 0.2006688963210702
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 6.46,
+		"na_sales_share": 0.5712074303405573,
+		"eu_sales_share": 0.3204334365325078,
+		"jp_sales_share": 0.052631578947368425
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Acclaim Entertainment",
+		"global_sales": 0.64,
+		"na_sales_share": 0.5625,
+		"eu_sales_share": 0.375,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 8.290000000000001,
+		"na_sales_share": 0.5995174909529553,
+		"eu_sales_share": 0.34137515078407715,
+		"jp_sales_share": 0.0180940892641737
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 6.0600000000000005,
+		"na_sales_share": 0.5016501650165016,
+		"eu_sales_share": 0.40924092409240914,
+		"jp_sales_share": 0.03135313531353135
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 7.91,
+		"na_sales_share": 0.45512010113780027,
+		"eu_sales_share": 0.20859671302149177,
+		"jp_sales_share": 0.2781289506953224
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.68,
+		"na_sales_share": 0.38690476190476186,
+		"eu_sales_share": 0.1488095238095238,
+		"jp_sales_share": 0.44642857142857145
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 4.2,
+		"na_sales_share": 0.6595238095238095,
+		"eu_sales_share": 0.2547619047619047,
+		"jp_sales_share": 0.0047619047619047615
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 7.76,
+		"na_sales_share": 0.40335051546391754,
+		"eu_sales_share": 0.22422680412371135,
+		"jp_sales_share": 0.2422680412371134
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 2.15,
+		"na_sales_share": 0.6976744186046512,
+		"eu_sales_share": 0.2558139534883721,
+		"jp_sales_share": 0.009302325581395349
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 0.8,
+		"na_sales_share": 0.35000000000000003,
+		"eu_sales_share": 0.27499999999999997,
+		"jp_sales_share": 0.2875
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 12.160000000000002,
+		"na_sales_share": 0.6143092105263156,
+		"eu_sales_share": 0.2524671052631578,
+		"jp_sales_share": 0.05427631578947368
+	}
+},
+{
+	"_id": {
+		"year": 2000.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.1,
+		"na_sales_share": 0.3709677419354838,
+		"eu_sales_share": 0.12580645161290321,
+		"jp_sales_share": 0.42903225806451606
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 14.2,
+		"na_sales_share": 0.5316901408450705,
+		"eu_sales_share": 0.3471830985915493,
+		"jp_sales_share": 0.02112676056338028
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 3.73,
+		"na_sales_share": 0.3324396782841823,
+		"eu_sales_share": 0.5951742627345844,
+		"jp_sales_share": 0.00804289544235925
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 7.06,
+		"na_sales_share": 0.6246458923512749,
+		"eu_sales_share": 0.1473087818696884,
+		"jp_sales_share": 0.19688385269121814
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 6.050000000000001,
+		"na_sales_share": 0.7818181818181817,
+		"eu_sales_share": 0.19504132231404958,
+		"jp_sales_share": 0.008264462809917356
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 13.22,
+		"na_sales_share": 0.5484114977307111,
+		"eu_sales_share": 0.2329803328290469,
+		"jp_sales_share": 0.1815431164901664
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 4.4,
+		"na_sales_share": 0.6863636363636362,
+		"eu_sales_share": 0.2590909090909091,
+		"jp_sales_share": 0.034090909090909095
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 19.76,
+		"na_sales_share": 0.5359311740890688,
+		"eu_sales_share": 0.298076923076923,
+		"jp_sales_share": 0.09463562753036436
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 8.459999999999999,
+		"na_sales_share": 0.36288416075650126,
+		"eu_sales_share": 0.25886524822695034,
+		"jp_sales_share": 0.3345153664302601
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 7.0,
+		"na_sales_share": 0.7728571428571429,
+		"eu_sales_share": 0.20285714285714285,
+		"jp_sales_share": 0.011428571428571429
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 3.97,
+		"na_sales_share": 0.7657430730478589,
+		"eu_sales_share": 0.20906801007556672,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 19.929999999999996,
+		"na_sales_share": 0.6367285499247367,
+		"eu_sales_share": 0.2538886101354742,
+		"jp_sales_share": 0.0025087807325639747
+	}
+},
+{
+	"_id": {
+		"year": 2001.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.32,
+		"na_sales_share": 0.3855421686746988,
+		"eu_sales_share": 0.13253012048192772,
+		"jp_sales_share": 0.46686746987951816
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 17.98,
+		"na_sales_share": 0.5155728587319244,
+		"eu_sales_share": 0.3453837597330367,
+		"jp_sales_share": 0.02725250278086763
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.6799999999999997,
+		"na_sales_share": 0.5447761194029851,
+		"eu_sales_share": 0.24626865671641796,
+		"jp_sales_share": 0.16791044776119404
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 4.62,
+		"na_sales_share": 0.34415584415584416,
+		"eu_sales_share": 0.27705627705627706,
+		"jp_sales_share": 0.30303030303030304
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Infogrames",
+		"global_sales": 3.56,
+		"na_sales_share": 0.6882022471910112,
+		"eu_sales_share": 0.2556179775280899,
+		"jp_sales_share": 0.01404494382022472
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 11.959999999999999,
+		"na_sales_share": 0.5836120401337793,
+		"eu_sales_share": 0.15133779264214048,
+		"jp_sales_share": 0.2391304347826087
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 2.31,
+		"na_sales_share": 0.5541125541125541,
+		"eu_sales_share": 0.3246753246753247,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 6.339999999999999,
+		"na_sales_share": 0.7129337539432179,
+		"eu_sales_share": 0.21766561514195584,
+		"jp_sales_share": 0.006309148264984229
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 17.45,
+		"na_sales_share": 0.38223495702005733,
+		"eu_sales_share": 0.23896848137535817,
+		"jp_sales_share": 0.3461318051575931
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 17.890000000000004,
+		"na_sales_share": 0.5377305757406371,
+		"eu_sales_share": 0.34264952487423134,
+		"jp_sales_share": 0.01621017328116266
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 6.94,
+		"na_sales_share": 0.5489913544668586,
+		"eu_sales_share": 0.4048991354466859,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 25.069999999999997,
+		"na_sales_share": 0.5660151575588352,
+		"eu_sales_share": 0.3023534104507379,
+		"jp_sales_share": 0.016354208216992423
+	}
+},
+{
+	"_id": {
+		"year": 2002.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Atari",
+		"global_sales": 1.24,
+		"na_sales_share": 0.9596774193548386,
+		"eu_sales_share": 0.040322580645161296,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 10.380000000000003,
+		"na_sales_share": 0.633911368015414,
+		"eu_sales_share": 0.3025048169556839,
+		"jp_sales_share": 0.00867052023121387
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 0.6699999999999999,
+		"na_sales_share": 0.4925373134328358,
+		"eu_sales_share": 0.3880597014925374,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 5.86,
+		"na_sales_share": 0.5017064846416381,
+		"eu_sales_share": 0.1979522184300341,
+		"jp_sales_share": 0.24232081911262796
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 8.209999999999999,
+		"na_sales_share": 0.3593179049939098,
+		"eu_sales_share": 0.466504263093788,
+		"jp_sales_share": 0.024360535931790505
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 10.120000000000001,
+		"na_sales_share": 0.675889328063241,
+		"eu_sales_share": 0.2677865612648221,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.94,
+		"na_sales_share": 0.309278350515464,
+		"eu_sales_share": 0.08247422680412371,
+		"jp_sales_share": 0.5876288659793814
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 11.920000000000002,
+		"na_sales_share": 0.506711409395973,
+		"eu_sales_share": 0.3766778523489932,
+		"jp_sales_share": 0.007550335570469797
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 9.09,
+		"na_sales_share": 0.5005500550055005,
+		"eu_sales_share": 0.16721672167216725,
+		"jp_sales_share": 0.3036303630363036
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 8.350000000000001,
+		"na_sales_share": 0.489820359281437,
+		"eu_sales_share": 0.3796407185628741,
+		"jp_sales_share": 0.0155688622754491
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 12.640000000000002,
+		"na_sales_share": 0.6020569620253162,
+		"eu_sales_share": 0.34256329113924044,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 21.429999999999993,
+		"na_sales_share": 0.7078861409239385,
+		"eu_sales_share": 0.2132524498366776,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2003.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 1.95,
+		"na_sales_share": 0.4307692307692307,
+		"eu_sales_share": 0.5076923076923077,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 21.459999999999997,
+		"na_sales_share": 0.4617893755824791,
+		"eu_sales_share": 0.02562907735321529,
+		"jp_sales_share": 0.019105312208760487
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.14,
+		"na_sales_share": 0.5382165605095541,
+		"eu_sales_share": 0.20063694267515922,
+		"jp_sales_share": 0.24522292993630573
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 4.8100000000000005,
+		"na_sales_share": 0.6403326403326403,
+		"eu_sales_share": 0.25987525987525983,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "N/A",
+		"global_sales": 5.060000000000001,
+		"na_sales_share": 0.7233201581027667,
+		"eu_sales_share": 0.26679841897233203,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 18.999999999999996,
+		"na_sales_share": 0.44368421052631585,
+		"eu_sales_share": 0.21000000000000002,
+		"jp_sales_share": 0.2842105263157895
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.009999999999999,
+		"na_sales_share": 0.39321357285429154,
+		"eu_sales_share": 0.1816367265469062,
+		"jp_sales_share": 0.38722554890219574
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 16.800000000000004,
+		"na_sales_share": 0.49404761904761885,
+		"eu_sales_share": 0.39226190476190453,
+		"jp_sales_share": 0.0053571428571428555
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 20.720000000000002,
+		"na_sales_share": 0.44980694980694974,
+		"eu_sales_share": 0.2311776061776062,
+		"jp_sales_share": 0.2876447876447876
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 8.48,
+		"na_sales_share": 0.8042452830188679,
+		"eu_sales_share": 0.1804245283018868,
+		"jp_sales_share": 0.00589622641509434
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 4.15,
+		"na_sales_share": 0.4915662650602409,
+		"eu_sales_share": 0.4024096385542168,
+		"jp_sales_share": 0.0048192771084337345
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 30.12,
+		"na_sales_share": 0.7051792828685258,
+		"eu_sales_share": 0.21115537848605567,
+		"jp_sales_share": 0.0016600265604249668
+	}
+},
+{
+	"_id": {
+		"year": 2004.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.18,
+		"na_sales_share": 0.4128440366972476,
+		"eu_sales_share": 0.13302752293577982,
+		"jp_sales_share": 0.4311926605504587
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 14.62,
+		"na_sales_share": 0.4829001367989056,
+		"eu_sales_share": 0.35088919288645687,
+		"jp_sales_share": 0.016415868673050615
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Global Star",
+		"global_sales": 1.2800000000000002,
+		"na_sales_share": 0.6406249999999999,
+		"eu_sales_share": 0.296875,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 5.47,
+		"na_sales_share": 0.3619744058500914,
+		"eu_sales_share": 0.41316270566727603,
+		"jp_sales_share": 0.08043875685557587
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 30.4,
+		"na_sales_share": 0.27796052631578955,
+		"eu_sales_share": 0.4088815789473684,
+		"jp_sales_share": 0.22236842105263155
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 4.909999999999999,
+		"na_sales_share": 0.5315682281059063,
+		"eu_sales_share": 0.37270875763747463,
+		"jp_sales_share": 0.012219959266802445
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 16.45,
+		"na_sales_share": 0.2413373860182371,
+		"eu_sales_share": 0.32887537993920973,
+		"jp_sales_share": 0.35562310030395133
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 23.43,
+		"na_sales_share": 0.4186939820742638,
+		"eu_sales_share": 0.3230900554844217,
+		"jp_sales_share": 0.17626973965002135
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 8.6,
+		"na_sales_share": 0.5232558139534884,
+		"eu_sales_share": 0.14418604651162795,
+		"jp_sales_share": 0.3069767441860465
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 12.86,
+		"na_sales_share": 0.7076205287713843,
+		"eu_sales_share": 0.22395023328149297,
+		"jp_sales_share": 0.0015552099533437014
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 37.44,
+		"na_sales_share": 0.31837606837606847,
+		"eu_sales_share": 0.38808760683760685,
+		"jp_sales_share": 0.19577991452991453
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 32.28999999999999,
+		"na_sales_share": 0.7256116444719727,
+		"eu_sales_share": 0.17528646639826564,
+		"jp_sales_share": 0.0018581604211830294
+	}
+},
+{
+	"_id": {
+		"year": 2005.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 1.29,
+		"na_sales_share": 0.7829457364341085,
+		"eu_sales_share": 0.11627906976744186,
+		"jp_sales_share": 0.007751937984496124
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 9.939999999999998,
+		"na_sales_share": 0.43158953722334015,
+		"eu_sales_share": 0.3531187122736419,
+		"jp_sales_share": 0.027162977867203227
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 3.7800000000000007,
+		"na_sales_share": 0.6005291005291006,
+		"eu_sales_share": 0.31481481481481477,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 5.57,
+		"na_sales_share": 0.7055655296229801,
+		"eu_sales_share": 0.19748653500897667,
+		"jp_sales_share": 0.0035906642728904844
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 42.330000000000005,
+		"na_sales_share": 0.3758563666430427,
+		"eu_sales_share": 0.3087644696432789,
+		"jp_sales_share": 0.23434916135128747
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 34.92000000000001,
+		"na_sales_share": 0.3906071019473081,
+		"eu_sales_share": 0.2671821305841924,
+		"jp_sales_share": 0.2525773195876288
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 7.37,
+		"na_sales_share": 0.36635006784260515,
+		"eu_sales_share": 0.16553595658073272,
+		"jp_sales_share": 0.40705563093622793
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 9.81,
+		"na_sales_share": 0.529051987767584,
+		"eu_sales_share": 0.33027522935779813,
+		"jp_sales_share": 0.012232415902140673
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 24.21,
+		"na_sales_share": 0.36472532011565467,
+		"eu_sales_share": 0.20611317637339938,
+		"jp_sales_share": 0.3601817430813713
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 8.64,
+		"na_sales_share": 0.5763888888888888,
+		"eu_sales_share": 0.24884259259259256,
+		"jp_sales_share": 0.016203703703703703
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "505 Games",
+		"global_sales": 5.95,
+		"na_sales_share": 0.5478991596638655,
+		"eu_sales_share": 0.32605042016806723,
+		"jp_sales_share": 0.026890756302521007
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 84.62,
+		"na_sales_share": 0.5036634365398251,
+		"eu_sales_share": 0.34353580713779247,
+		"jp_sales_share": 0.051524462302056255
+	}
+},
+{
+	"_id": {
+		"year": 2006.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 1.25,
+		"na_sales_share": 0.32799999999999996,
+		"eu_sales_share": 0.44000000000000006,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "LucasArts",
+		"global_sales": 15.73,
+		"na_sales_share": 0.5785123966942148,
+		"eu_sales_share": 0.31849968213604574,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 11.37,
+		"na_sales_share": 0.5153913808267371,
+		"eu_sales_share": 0.34036939313984166,
+		"jp_sales_share": 0.014072119613016711
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 7.43,
+		"na_sales_share": 0.4576043068640646,
+		"eu_sales_share": 0.25033647375504714,
+		"jp_sales_share": 0.0026917900403768506
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 27.17,
+		"na_sales_share": 0.3754140596245859,
+		"eu_sales_share": 0.28266470371733526,
+		"jp_sales_share": 0.2605815237394185
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 16.52,
+		"na_sales_share": 0.5254237288135594,
+		"eu_sales_share": 0.2627118644067797,
+		"jp_sales_share": 0.14285714285714288
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 11.84,
+		"na_sales_share": 0.2483108108108108,
+		"eu_sales_share": 0.4569256756756756,
+		"jp_sales_share": 0.20945945945945946
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 9.060000000000002,
+		"na_sales_share": 0.40397350993377473,
+		"eu_sales_share": 0.30353200883002196,
+		"jp_sales_share": 0.01103752759381898
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Square Enix",
+		"global_sales": 14.350000000000001,
+		"na_sales_share": 0.4076655052264809,
+		"eu_sales_share": 0.14425087108013934,
+		"jp_sales_share": 0.362369337979094
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 20.919999999999998,
+		"na_sales_share": 0.5234225621414913,
+		"eu_sales_share": 0.3288718929254302,
+		"jp_sales_share": 0.020076481835564056
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 15.859999999999998,
+		"na_sales_share": 0.5346784363177808,
+		"eu_sales_share": 0.3644388398486759,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 30.279999999999994,
+		"na_sales_share": 0.6149273447820343,
+		"eu_sales_share": 0.1971598414795243,
+		"jp_sales_share": 0.001981505944517834
+	}
+},
+{
+	"_id": {
+		"year": 2007.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 1.42,
+		"na_sales_share": 0.2535211267605634,
+		"eu_sales_share": 0.5281690140845071,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 27.91,
+		"na_sales_share": 0.510927982801863,
+		"eu_sales_share": 0.34790397706915066,
+		"jp_sales_share": 0.021855965603726265
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Disney Interactive Studios",
+		"global_sales": 6.590000000000001,
+		"na_sales_share": 0.5569044006069802,
+		"eu_sales_share": 0.3247344461305007,
+		"jp_sales_share": 0.0015174506828528071
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 13.04,
+		"na_sales_share": 0.517638036809816,
+		"eu_sales_share": 0.20015337423312884,
+		"jp_sales_share": 0.2039877300613497
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 21.27,
+		"na_sales_share": 0.6685472496473907,
+		"eu_sales_share": 0.19981194170192765,
+		"jp_sales_share": 0.00047014574518100614
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 7.909999999999999,
+		"na_sales_share": 0.4450063211125158,
+		"eu_sales_share": 0.3893805309734513,
+		"jp_sales_share": 0.03160556257901391
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.36,
+		"na_sales_share": 0.19345238095238096,
+		"eu_sales_share": 0.47916666666666674,
+		"jp_sales_share": 0.24404761904761904
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 35.83,
+		"na_sales_share": 0.44236673178900365,
+		"eu_sales_share": 0.3594753000279096,
+		"jp_sales_share": 0.10577728160759141
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 12.91,
+		"na_sales_share": 0.39659178931061184,
+		"eu_sales_share": 0.19287374128582496,
+		"jp_sales_share": 0.3446940356312936
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 18.859999999999996,
+		"na_sales_share": 0.5721102863202546,
+		"eu_sales_share": 0.27412513255567345,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 13.930000000000003,
+		"na_sales_share": 0.6669059583632446,
+		"eu_sales_share": 0.22900215362526902,
+		"jp_sales_share": 0.01292175161521895
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 30.819999999999993,
+		"na_sales_share": 0.5616482803374433,
+		"eu_sales_share": 0.25016223231667745,
+		"jp_sales_share": 0.0045425048669695016
+	}
+},
+{
+	"_id": {
+		"year": 2008.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 2.6300000000000003,
+		"na_sales_share": 0.5551330798479087,
+		"eu_sales_share": 0.3231939163498098,
+		"jp_sales_share": 0.007604562737642585
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 18.949999999999996,
+		"na_sales_share": 0.6248021108179421,
+		"eu_sales_share": 0.2569920844327177,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Disney Interactive Studios",
+		"global_sales": 3.09,
+		"na_sales_share": 0.6019417475728155,
+		"eu_sales_share": 0.29449838187702265,
+		"jp_sales_share": 0.006472491909385114
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 11.289999999999997,
+		"na_sales_share": 0.5952170062001771,
+		"eu_sales_share": 0.24534986713906118,
+		"jp_sales_share": 0.002657218777679363
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 17.419999999999995,
+		"na_sales_share": 0.5195177956371989,
+		"eu_sales_share": 0.3226176808266361,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 28.61,
+		"na_sales_share": 0.5099615519049283,
+		"eu_sales_share": 0.24676686473261097,
+		"jp_sales_share": 0.16427822439706397
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 4.6499999999999995,
+		"na_sales_share": 0.7397849462365591,
+		"eu_sales_share": 0.17849462365591398,
+		"jp_sales_share": 0.004301075268817205
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 8.379999999999999,
+		"na_sales_share": 0.369928400954654,
+		"eu_sales_share": 0.47016706443914086,
+		"jp_sales_share": 0.008353221957040574
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 14.91,
+		"na_sales_share": 0.2796780684104628,
+		"eu_sales_share": 0.14956405097250167,
+		"jp_sales_share": 0.5251509054325956
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 31.639999999999997,
+		"na_sales_share": 0.5429835651074592,
+		"eu_sales_share": 0.3173198482932996,
+		"jp_sales_share": 0.0145385587863464
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 12.26,
+		"na_sales_share": 0.300163132137031,
+		"eu_sales_share": 0.5856443719412724,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 56.669999999999995,
+		"na_sales_share": 0.44485618493029827,
+		"eu_sales_share": 0.36121404623257464,
+		"jp_sales_share": 0.10746426680783484
+	}
+},
+{
+	"_id": {
+		"year": 2009.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 2.79,
+		"na_sales_share": 0.5519713261648745,
+		"eu_sales_share": 0.3369175627240143,
+		"jp_sales_share": 0.014336917562724014
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 26.3,
+		"na_sales_share": 0.5437262357414449,
+		"eu_sales_share": 0.31558935361216733,
+		"jp_sales_share": 0.020912547528517112
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 3.28,
+		"na_sales_share": 0.3932926829268293,
+		"eu_sales_share": 0.3871951219512195,
+		"jp_sales_share": 0.06707317073170732
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "THQ",
+		"global_sales": 6.4799999999999995,
+		"na_sales_share": 0.5324074074074074,
+		"eu_sales_share": 0.32716049382716045,
+		"jp_sales_share": 0.004629629629629629
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 22.14,
+		"na_sales_share": 0.6784101174345077,
+		"eu_sales_share": 0.23351400180668477,
+		"jp_sales_share": 0.01084010840108401
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 19.01,
+		"na_sales_share": 0.4944765912677538,
+		"eu_sales_share": 0.25618095739084684,
+		"jp_sales_share": 0.1778011572856391
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.04,
+		"na_sales_share": 0.5594059405940593,
+		"eu_sales_share": 0.24504950495049505,
+		"jp_sales_share": 0.12128712871287128
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 12.439999999999998,
+		"na_sales_share": 0.2869774919614148,
+		"eu_sales_share": 0.4469453376205789,
+		"jp_sales_share": 0.07154340836012864
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 21.169999999999998,
+		"na_sales_share": 0.3660840812470477,
+		"eu_sales_share": 0.19225318847425604,
+		"jp_sales_share": 0.3911195087387814
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 32.080000000000005,
+		"na_sales_share": 0.5720074812967579,
+		"eu_sales_share": 0.3014339152119701,
+		"jp_sales_share": 0.019014962593516205
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 10.030000000000001,
+		"na_sales_share": 0.4097706879361913,
+		"eu_sales_share": 0.4536390827517447,
+		"jp_sales_share": 0.0019940179461615153
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 36.33,
+		"na_sales_share": 0.4726121662537848,
+		"eu_sales_share": 0.3834296724470134,
+		"jp_sales_share": 0.0060556014313239755
+	}
+},
+{
+	"_id": {
+		"year": 2010.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 4.83,
+		"na_sales_share": 0.5300207039337475,
+		"eu_sales_share": 0.34782608695652173,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 12.659999999999998,
+		"na_sales_share": 0.42259083728278046,
+		"eu_sales_share": 0.42733017377567134,
+		"jp_sales_share": 0.01816745655608215
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 6.2,
+		"na_sales_share": 0.4629032258064516,
+		"eu_sales_share": 0.3870967741935484,
+		"jp_sales_share": 0.02258064516129032
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 4.96,
+		"na_sales_share": 0.7278225806451613,
+		"eu_sales_share": 0.17741935483870971,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 22.08,
+		"na_sales_share": 0.6127717391304346,
+		"eu_sales_share": 0.2807971014492754,
+		"jp_sales_share": 0.004528985507246377
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 13.529999999999998,
+		"na_sales_share": 0.4456762749445677,
+		"eu_sales_share": 0.24094604582409465,
+		"jp_sales_share": 0.24611973392461203
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.77,
+		"na_sales_share": 0.1807909604519774,
+		"eu_sales_share": 0.5367231638418078,
+		"jp_sales_share": 0.20338983050847456
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 12.21,
+		"na_sales_share": 0.3882063882063882,
+		"eu_sales_share": 0.3202293202293202,
+		"jp_sales_share": 0.21867321867321865
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Bethesda Softworks",
+		"global_sales": 19.279999999999998,
+		"na_sales_share": 0.45280082987551873,
+		"eu_sales_share": 0.3973029045643154,
+		"jp_sales_share": 0.01815352697095436
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 32.599999999999994,
+		"na_sales_share": 0.5061349693251534,
+		"eu_sales_share": 0.36564417177914127,
+		"jp_sales_share": 0.019018404907975465
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.77,
+		"na_sales_share": 0.3857442348008386,
+		"eu_sales_share": 0.3626834381551363,
+		"jp_sales_share": 0.18029350104821804
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 24.219999999999995,
+		"na_sales_share": 0.4620148637489678,
+		"eu_sales_share": 0.3971924029727498,
+		"jp_sales_share": 0.006193228736581339
+	}
+},
+{
+	"_id": {
+		"year": 2011.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 2.1799999999999997,
+		"na_sales_share": 0.21559633027522937,
+		"eu_sales_share": 0.5871559633027523,
+		"jp_sales_share": 0.022935779816513766
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 22.159999999999993,
+		"na_sales_share": 0.28925992779783405,
+		"eu_sales_share": 0.5315884476534298,
+		"jp_sales_share": 0.013537906137184122
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Avanquest Software",
+		"global_sales": 1.57,
+		"na_sales_share": 0.6050955414012739,
+		"eu_sales_share": 0.267515923566879,
+		"jp_sales_share": 0.01910828025477707
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 4.29,
+		"na_sales_share": 0.4289044289044289,
+		"eu_sales_share": 0.30069930069930073,
+		"jp_sales_share": 0.16783216783216784
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 9.760000000000002,
+		"na_sales_share": 0.6127049180327867,
+		"eu_sales_share": 0.3012295081967213,
+		"jp_sales_share": 0.001024590163934426
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 15.030000000000001,
+		"na_sales_share": 0.3978709248170326,
+		"eu_sales_share": 0.29075182967398533,
+		"jp_sales_share": 0.2488356620093147
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Level 5",
+		"global_sales": 0.8,
+		"na_sales_share": 0.25,
+		"eu_sales_share": 0.325,
+		"jp_sales_share": 0.37499999999999994
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 5.710000000000001,
+		"na_sales_share": 0.2994746059544658,
+		"eu_sales_share": 0.5061295971978984,
+		"jp_sales_share": 0.01401050788091068
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 18.369999999999997,
+		"na_sales_share": 0.3897659227000545,
+		"eu_sales_share": 0.2182906913445836,
+		"jp_sales_share": 0.33913990201415356
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 30.51,
+		"na_sales_share": 0.4716486397902327,
+		"eu_sales_share": 0.3739757456571616,
+		"jp_sales_share": 0.023598820058997046
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 9.82,
+		"na_sales_share": 0.22097759674134418,
+		"eu_sales_share": 0.23828920570264764,
+		"jp_sales_share": 0.4979633401221996
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 13.82,
+		"na_sales_share": 0.6085383502170766,
+		"eu_sales_share": 0.28364688856729375,
+		"jp_sales_share": 0.002894356005788712
+	}
+},
+{
+	"_id": {
+		"year": 2012.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 1.96,
+		"na_sales_share": 0.4387755102040816,
+		"eu_sales_share": 0.42857142857142855,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 37.769999999999996,
+		"na_sales_share": 0.44056129203071226,
+		"eu_sales_share": 0.38602065131056396,
+		"jp_sales_share": 0.027270320360074138
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 1.9100000000000001,
+		"na_sales_share": 0.2774869109947644,
+		"eu_sales_share": 0.4816753926701571,
+		"jp_sales_share": 0.05759162303664921
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 3.8800000000000003,
+		"na_sales_share": 0.5463917525773194,
+		"eu_sales_share": 0.32216494845360827,
+		"jp_sales_share": 0.002577319587628866
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 9.280000000000001,
+		"na_sales_share": 0.5732758620689654,
+		"eu_sales_share": 0.3232758620689654,
+		"jp_sales_share": 0.005387931034482758
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 10.87,
+		"na_sales_share": 0.468261269549218,
+		"eu_sales_share": 0.3219871205151794,
+		"jp_sales_share": 0.13799448022079117
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 0.79,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.6075949367088607,
+		"jp_sales_share": 0.3164556962025316
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 5.380000000000001,
+		"na_sales_share": 0.38289962825278806,
+		"eu_sales_share": 0.4665427509293679,
+		"jp_sales_share": 0.016728624535315983
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 18.369999999999997,
+		"na_sales_share": 0.3413173652694611,
+		"eu_sales_share": 0.2721829069134459,
+		"jp_sales_share": 0.33369624387588465
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 28.789999999999996,
+		"na_sales_share": 0.5481069815908302,
+		"eu_sales_share": 0.32893365751997217,
+		"jp_sales_share": 0.016672455713789513
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.15,
+		"na_sales_share": 0.18640776699029124,
+		"eu_sales_share": 0.39223300970873787,
+		"jp_sales_share": 0.3669902912621359
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 26.83,
+		"na_sales_share": 0.4025344763324637,
+		"eu_sales_share": 0.44949683190458456,
+		"jp_sales_share": 0.007454342154304883
+	}
+},
+{
+	"_id": {
+		"year": 2013.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 3.56,
+		"na_sales_share": 0.49438202247191004,
+		"eu_sales_share": 0.38764044943820225,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 19.84,
+		"na_sales_share": 0.4259072580645162,
+		"eu_sales_share": 0.4143145161290323,
+		"jp_sales_share": 0.018145161290322582
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Telltale Games",
+		"global_sales": 1.9200000000000002,
+		"na_sales_share": 0.44791666666666674,
+		"eu_sales_share": 0.3802083333333333,
+		"jp_sales_share": 0.015624999999999998
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 12.46,
+		"na_sales_share": 0.46789727126805775,
+		"eu_sales_share": 0.19341894060995185,
+		"jp_sales_share": 0.2584269662921348
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment Europe",
+		"global_sales": 6.609999999999999,
+		"na_sales_share": 0.25113464447806355,
+		"eu_sales_share": 0.4447806354009078,
+		"jp_sales_share": 0.1497730711043873
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 4.7,
+		"na_sales_share": 0.38510638297872335,
+		"eu_sales_share": 0.2914893617021277,
+		"jp_sales_share": 0.2595744680851064
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.2,
+		"na_sales_share": 0.46666666666666673,
+		"eu_sales_share": 0.3,
+		"jp_sales_share": 0.15833333333333335
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 6.96,
+		"na_sales_share": 0.4497126436781609,
+		"eu_sales_share": 0.29741379310344823,
+		"jp_sales_share": 0.1824712643678161
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 18.79,
+		"na_sales_share": 0.2666311868014902,
+		"eu_sales_share": 0.20755721128259716,
+		"jp_sales_share": 0.4848323576370411
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 34.57,
+		"na_sales_share": 0.49464853919583457,
+		"eu_sales_share": 0.35579982643910907,
+		"jp_sales_share": 0.01793462539774371
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 2.97,
+		"na_sales_share": 0.3232323232323232,
+		"eu_sales_share": 0.579124579124579,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 30.92,
+		"na_sales_share": 0.36869340232859,
+		"eu_sales_share": 0.473803363518758,
+		"jp_sales_share": 0.0048512289780077615
+	}
+},
+{
+	"_id": {
+		"year": 2014.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 0.44,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 17.64,
+		"na_sales_share": 0.42743764172335597,
+		"eu_sales_share": 0.4217687074829932,
+		"jp_sales_share": 0.020408163265306124
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Mojang",
+		"global_sales": 2.91,
+		"na_sales_share": 0.42955326460481097,
+		"eu_sales_share": 0.4467353951890034,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 4.09,
+		"na_sales_share": 0.6063569682151588,
+		"eu_sales_share": 0.2469437652811736,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 3.37,
+		"na_sales_share": 0.2640949554896142,
+		"eu_sales_share": 0.3620178041543026,
+		"jp_sales_share": 0.32047477744807124
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 5.250000000000001,
+		"na_sales_share": 0.4019047619047618,
+		"eu_sales_share": 0.2971428571428571,
+		"jp_sales_share": 0.23238095238095238
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 0.6300000000000001,
+		"na_sales_share": 0.07936507936507936,
+		"eu_sales_share": 0.07936507936507936,
+		"jp_sales_share": 0.8253968253968252
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 3.08,
+		"na_sales_share": 0.2564935064935065,
+		"eu_sales_share": 0.5909090909090909,
+		"jp_sales_share": 0.016233766233766236
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Bethesda Softworks",
+		"global_sales": 15.270000000000001,
+		"na_sales_share": 0.4485920104780615,
+		"eu_sales_share": 0.4060248853962017,
+		"jp_sales_share": 0.01637197118533071
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 29.14,
+		"na_sales_share": 0.4756348661633493,
+		"eu_sales_share": 0.37268359643102267,
+		"jp_sales_share": 0.016815374056280027
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 2.98,
+		"na_sales_share": 0.15771812080536912,
+		"eu_sales_share": 0.33557046979865773,
+		"jp_sales_share": 0.4664429530201342
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 25.26,
+		"na_sales_share": 0.3824228028503563,
+		"eu_sales_share": 0.48020585906571656,
+		"jp_sales_share": 0.004354711005542359
+	}
+},
+{
+	"_id": {
+		"year": 2015.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 0.51,
+		"na_sales_share": 0.3529411764705882,
+		"eu_sales_share": 0.5686274509803921,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 3.77,
+		"na_sales_share": 0.31034482758620696,
+		"eu_sales_share": 0.53315649867374,
+		"jp_sales_share": 0.023872679045092837
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Square Enix",
+		"global_sales": 0.63,
+		"na_sales_share": 0.3650793650793651,
+		"eu_sales_share": 0.46031746031746035,
+		"jp_sales_share": 0.047619047619047616
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 2.7399999999999998,
+		"na_sales_share": 0.43065693430656937,
+		"eu_sales_share": 0.2956204379562044,
+		"jp_sales_share": 0.16058394160583944
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Microsoft Game Studios",
+		"global_sales": 0.44,
+		"na_sales_share": 0.40909090909090906,
+		"eu_sales_share": 0.20454545454545453,
+		"jp_sales_share": 0.31818181818181823
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Sony Computer Entertainment",
+		"global_sales": 1.18,
+		"na_sales_share": 0.2711864406779661,
+		"eu_sales_share": 0.5423728813559322,
+		"jp_sales_share": 0.03389830508474576
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Codemasters",
+		"global_sales": 0.8500000000000001,
+		"na_sales_share": 0.09411764705882353,
+		"eu_sales_share": 0.764705882352941,
+		"jp_sales_share": 0.011764705882352941
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Namco Bandai Games",
+		"global_sales": 2.57,
+		"na_sales_share": 0.3151750972762646,
+		"eu_sales_share": 0.2607003891050584,
+		"jp_sales_share": 0.32295719844357984
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 5.9799999999999995,
+		"na_sales_share": 0.4481605351170569,
+		"eu_sales_share": 0.3963210702341138,
+		"jp_sales_share": 0.02508361204013378
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Marvelous Interactive",
+		"global_sales": 0.19,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 10.780000000000003,
+		"na_sales_share": 0.28014842300556575,
+		"eu_sales_share": 0.5807050092764375,
+		"jp_sales_share": 0.006493506493506491
+	}
+},
+{
+	"_id": {
+		"year": 2016.0,
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Take-Two Interactive",
+		"global_sales": 0.27,
+		"na_sales_share": 0.40740740740740733,
+		"eu_sales_share": 0.48148148148148145,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": 2017.0,
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Idea Factory",
+		"global_sales": 0.01,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 2017.0,
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Sega",
+		"global_sales": 0.04,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 1.0
+	}
+},
+{
+	"_id": {
+		"year": 2020.0,
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Ubisoft",
+		"global_sales": 0.29,
+		"na_sales_share": 0.9310344827586208,
+		"eu_sales_share": 0.0,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "Adventure",
+		"genre": "Idea Factory"
+	},
+	"value": {
+		"publisher": 0.0,
+		"global_sales": 0.08,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.5,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "Adventure",
+		"genre": "Sony Computer Entertainment"
+	},
+	"value": {
+		"publisher": 0.0,
+		"global_sales": 0.16,
+		"na_sales_share": 0.0,
+		"eu_sales_share": 0.5,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Action"
+	},
+	"value": {
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"global_sales": 11.559999999999999,
+		"na_sales_share": 0.5051903114186851,
+		"eu_sales_share": 0.37110726643598607,
+		"jp_sales_share": 0.000865051903114187
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Adventure"
+	},
+	"value": {
+		"publisher": "Konami Digital Entertainment",
+		"global_sales": 2.4,
+		"na_sales_share": 0.8958333333333334,
+		"eu_sales_share": 0.075,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Fighting"
+	},
+	"value": {
+		"publisher": "N/A",
+		"global_sales": 3.21,
+		"na_sales_share": 0.5202492211838007,
+		"eu_sales_share": 0.34267912772585674,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Misc"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 5.22,
+		"na_sales_share": 0.6954022988505747,
+		"eu_sales_share": 0.15517241379310345,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Platform"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 1.03,
+		"na_sales_share": 0.6601941747572816,
+		"eu_sales_share": 0.30097087378640774,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Puzzle"
+	},
+	"value": {
+		"publisher": "Unknown",
+		"global_sales": 1.52,
+		"na_sales_share": 0.4868421052631579,
+		"eu_sales_share": 0.05263157894736842,
+		"jp_sales_share": 0.4144736842105263
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Racing"
+	},
+	"value": {
+		"publisher": "Unknown",
+		"global_sales": 2.54,
+		"na_sales_share": 0.5118110236220473,
+		"eu_sales_share": 0.3543307086614173,
+		"jp_sales_share": 0.023622047244094488
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Role-Playing"
+	},
+	"value": {
+		"publisher": "Unknown",
+		"global_sales": 1.9900000000000002,
+		"na_sales_share": 0.3266331658291457,
+		"eu_sales_share": 0.21105527638190955,
+		"jp_sales_share": 0.3869346733668341
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Shooter"
+	},
+	"value": {
+		"publisher": "Activision",
+		"global_sales": 4.47,
+		"na_sales_share": 0.5011185682326623,
+		"eu_sales_share": 0.3870246085011186,
+		"jp_sales_share": 0.0
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Simulation"
+	},
+	"value": {
+		"publisher": "Unknown",
+		"global_sales": 1.3599999999999999,
+		"na_sales_share": 0.786764705882353,
+		"eu_sales_share": 0.11029411764705883,
+		"jp_sales_share": 0.014705882352941178
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Sports"
+	},
+	"value": {
+		"publisher": "Electronic Arts",
+		"global_sales": 10.98,
+		"na_sales_share": 0.616575591985428,
+		"eu_sales_share": 0.2577413479052823,
+		"jp_sales_share": 0.00546448087431694
+	}
+},
+{
+	"_id": {
+		"year": "N/A",
+		"genre": "Strategy"
+	},
+	"value": {
+		"publisher": "Nintendo",
+		"global_sales": 0.63,
+		"na_sales_share": 0.6984126984126984,
+		"eu_sales_share": 0.20634920634920637,
+		"jp_sales_share": 0.0
+	}
+}]
