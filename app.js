@@ -50,4 +50,10 @@ app.use(function(err, req, res, next) {
 module.exports = app;
 
 
-router.get
+app.get('/webhook', function (req, res) {
+    if (req.query['hub.verify_token'] === 'testjudybot') {
+      res.send(req.query['hub.challenge']);
+    } else {
+      res.send('Error, wrong validation token');    
+    }
+  });
